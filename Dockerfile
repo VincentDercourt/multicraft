@@ -1,6 +1,6 @@
 FROM openjdk:8-jre
 
-LABEL maintainer="pixel@rageclic.fr" \
+LABEL maintainer="seigneurpixel@gmail.com" \
 	  version=1.0 \
 	  description="Create a multicraft panel"
 
